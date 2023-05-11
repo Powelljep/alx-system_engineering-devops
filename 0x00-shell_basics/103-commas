@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -apxm1
+ls -apxmq
