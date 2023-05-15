@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type c | wc -l
+find . -mindepth2 -type c | wc -l
