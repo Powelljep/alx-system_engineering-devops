@@ -1,2 +1,2 @@
 #!/bin/bash
-find . type -d | sort -d | head
+ls -alt|grep -v "^d" | head
