@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -at1 | head
+find . -type f|ls -lt | head
